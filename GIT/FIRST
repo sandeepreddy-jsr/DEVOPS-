@@ -3,3 +3,12 @@ This is my first file in git
 
 
 annot run user/bin/vi: No su
+a=5
+b=0.5
+int main ()
+{
+
+int = a
+flot = b
+function (a+b)
+}
